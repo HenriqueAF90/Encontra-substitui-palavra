@@ -1,0 +1,3 @@
+C:\Users\henri\Documents\teste\teste1.txt
+C:\Users\henri\Documents\teste\teste2.txt
+C:\Users\henri\Documents\teste\teste3.txt
